@@ -13,3 +13,7 @@ body {
     border: 2px solid gray;
     border-radius: 6px;
 }
+
+img {
+    display: none;
+}
